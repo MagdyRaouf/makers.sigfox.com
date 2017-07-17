@@ -179,3 +179,28 @@
   skills:
     - cloud applications
     - Microsoft Azure
+- name: Boshra 
+  firstname: Bassem
+  country: Egypt
+  city: Cairo
+  img: Bassem.jpg
+  links:
+    - type: linkedin
+      url: bassem-boshra-9216271
+    - type: website
+      url: http://iot-egypt.com/staff-member/bassem-boshra/
+    - type: website
+      url: http://www.masterofthings.com
+  languages:
+    - English
+    - Arabic
+  skills:
+    - Telecom, Internet of Things, Software Development 
+    - End-2-End Solution Anaylsis and Design
+	  - Product Development
+    - Leading people through change
+    - Building and motivating teams 
+    - Building-up, integrating, and re-sizing organizations
+    - Planning competence for team members
+    - Multi-site and multi-national management
+    - Design and Implementation of work processes
